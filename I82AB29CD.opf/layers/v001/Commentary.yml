@@ -1,0 +1,77 @@
+id: 9af0f0db6595438ebfee04d3e366ce41
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  7814ced533d34ad59c26bca6ab454c47:
+    span:
+      start: 181
+      end: 501
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  537f7a0a22504530849c247fc90cf5e2:
+    span:
+      start: 540
+      end: 3032
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  d68b312d907643108f7b380e63dfd276:
+    span:
+      start: 3066
+      end: 4903
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  3d3c1b6c05c2470ba9468f2c388d2f2b:
+    span:
+      start: 4939
+      end: 6030
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  fac844019916439f9e9180aa5a41ccbe:
+    span:
+      start: 6081
+      end: 9137
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  db71d1280ceb484bbf7adc10e2ab669b:
+    span:
+      start: 9167
+      end: 9976
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  780034ac6d85470b8acc54af83005c68:
+    span:
+      start: 10030
+      end: 12579
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  8a6dd8b649f24d1e908e0e07168bb668:
+    span:
+      start: 12613
+      end: 14476
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  5162bbec3bbc4658a171dc31ce7d86d6:
+    span:
+      start: 14540
+      end: 19989
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+local_ids:
+  7814ced533d34ad59c26bca6ab454c47: 200000
+  537f7a0a22504530849c247fc90cf5e2: 200001
+  d68b312d907643108f7b380e63dfd276: 200002
+  3d3c1b6c05c2470ba9468f2c388d2f2b: 200003
+  fac844019916439f9e9180aa5a41ccbe: 200004
+  db71d1280ceb484bbf7adc10e2ab669b: 200005
+  780034ac6d85470b8acc54af83005c68: 200006
+  8a6dd8b649f24d1e908e0e07168bb668: 200007
+  5162bbec3bbc4658a171dc31ce7d86d6: 200008
