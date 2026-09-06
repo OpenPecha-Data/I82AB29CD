@@ -1,64 +1,64 @@
-id: 9af0f0db6595438ebfee04d3e366ce41
+id: 2f6a2a3c9fdd41108ee22c55157595b5
 annotation_type: Commentary
 revision: '00001'
 annotations:
-  7814ced533d34ad59c26bca6ab454c47:
+  a810037e63c24ad882c91100c57e2b66:
     span:
       start: 181
       end: 501
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  537f7a0a22504530849c247fc90cf5e2:
+  e9a6d4db9722488289a3d5788ac5bf7d:
     span:
       start: 540
       end: 3032
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  d68b312d907643108f7b380e63dfd276:
+  e4a30f6431b44b3794ec62314d732f0c:
     span:
       start: 3066
       end: 4903
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  3d3c1b6c05c2470ba9468f2c388d2f2b:
+  0f289de0e8954487a47f611a3c5cfc23:
     span:
       start: 4939
       end: 6030
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  fac844019916439f9e9180aa5a41ccbe:
+  e7e5736fb5a14499bf28fdc7ed6cc176:
     span:
       start: 6081
       end: 9137
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  db71d1280ceb484bbf7adc10e2ab669b:
+  e9a0a7c586fb4cc79012f14658c328ce:
     span:
       start: 9167
       end: 9976
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  780034ac6d85470b8acc54af83005c68:
+  1902cc0e350e4f5a80e0c034de47c91a:
     span:
       start: 10030
       end: 12579
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  8a6dd8b649f24d1e908e0e07168bb668:
+  5e85ba851a5b48c09945f7f157dc706b:
     span:
       start: 12613
       end: 14476
     isverse: false
     metadata:
       css_class_name: tibetan-commentary-non-indent
-  5162bbec3bbc4658a171dc31ce7d86d6:
+  bd011908a7244709b6d7ab7fb5b32c4f:
     span:
       start: 14540
       end: 19989
@@ -66,12 +66,12 @@ annotations:
     metadata:
       css_class_name: tibetan-commentary-non-indent
 local_ids:
-  7814ced533d34ad59c26bca6ab454c47: 200000
-  537f7a0a22504530849c247fc90cf5e2: 200001
-  d68b312d907643108f7b380e63dfd276: 200002
-  3d3c1b6c05c2470ba9468f2c388d2f2b: 200003
-  fac844019916439f9e9180aa5a41ccbe: 200004
-  db71d1280ceb484bbf7adc10e2ab669b: 200005
-  780034ac6d85470b8acc54af83005c68: 200006
-  8a6dd8b649f24d1e908e0e07168bb668: 200007
-  5162bbec3bbc4658a171dc31ce7d86d6: 200008
+  a810037e63c24ad882c91100c57e2b66: 200000
+  e9a6d4db9722488289a3d5788ac5bf7d: 200001
+  e4a30f6431b44b3794ec62314d732f0c: 200002
+  0f289de0e8954487a47f611a3c5cfc23: 200003
+  e7e5736fb5a14499bf28fdc7ed6cc176: 200004
+  e9a0a7c586fb4cc79012f14658c328ce: 200005
+  1902cc0e350e4f5a80e0c034de47c91a: 200006
+  5e85ba851a5b48c09945f7f157dc706b: 200007
+  bd011908a7244709b6d7ab7fb5b32c4f: 200008
